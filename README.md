@@ -2,6 +2,8 @@
 
 🎉Welcome to my Doodle Jump game clone! 🎉 This project recreates the popular mobile game using 🌐 HTML, 🎨 CSS, and 💻 JavaScript with HTML5 Canvas. 🌟
 
+Project Demo: https://nidhiupman568.github.io/DOODLE-JUMP-GAME/
+
 ## Features 🌟
 
 - **Game Loop 🔄**: Smooth and continuous game updates. 🕹️
